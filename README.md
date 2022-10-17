@@ -15,11 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <div>
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntonioAEMartins&theme=dark&background=000000)](https://git.io/streak-stats)
-  </div>
-  <div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAEMartins&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs)
-  </div>
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntonioAEMartins&theme=dark&background=000000)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAEMartins&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs)
