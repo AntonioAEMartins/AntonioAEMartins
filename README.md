@@ -2,13 +2,15 @@
 
 ## About Me
 
-👋 I'm Antônio Martins — Co-Founder & CPTO at A2C Solutions, Co-Founder at a Stealth Startup in the restaurant tech space, and Computer Engineering student at Insper.
+👋 I'm Antônio Martins — a Computer Engineering student at Insper and Visiting Student at UC Berkeley (Fall 2025), where I’ve been expanding my experience in AI, systems, and entrepreneurship.
 
-My purpose as an entrepreneur is to transform the world through technology and entrepreneurship, by deeply understanding people — their lives, goals, and pain points — and building meaningful solutions that create real impact.
+My purpose as an entrepreneur is to transform how people interact with systems by deeply understanding their lives, goals, and pain points — and shipping cutting‑edge technology that creates real impact.
 
-At A2C Solutions, I lead the product and tech strategy of a custom software house focused on crafting platforms, web apps, and AI-driven tools using modern stacks like Flutter, NestJS, and GPT-based solutions. We work with clients across agribusiness, benefits management, and retail tech — including MeuAgro, Apoiar, and EZ Shop — delivering digital products that simplify complex processes and accelerate innovation.
+Previously, I:
 
-At our Stealth Startup, we're building the next-gen on-table payment experience for restaurants.
+1. co-founded and led A2C Solutions as CPTO — a software consultancy building web apps and AI-driven tools (Flutter/Dart, NestJS/TypeScript). We worked across agribusiness, benefits management, and retail tech.
+
+2. co-founded and led Astra as CTO, a payment system for restaurants in Brazil, in which we shortened the end-of-meal wait and took payments off the waiter's plate by having a WhatsApp-native checkout fully integrated with the restaurant POS. I developed the product, system architecture, reverse-engineered the POS, and built the backend and integrations (NestJS/TypeScript, MongoDB).
 
 ## Languages, Frameworks & Tools
 
